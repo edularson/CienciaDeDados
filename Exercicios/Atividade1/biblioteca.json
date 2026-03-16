@@ -1,0 +1,17 @@
+{
+    "livros": [
+        {
+            "titulo": "L'Étranger",
+            "autor": "Albert Camus",
+            "isbn": "9786610151271",
+            "disponivel": true
+        }
+    ],
+    "usuarios": [
+        {
+            "nome": "Eduardo",
+            "cpf": "12345678910",
+            "livros_emprestados": {}
+        }
+    ]
+}
