@@ -1,0 +1,12 @@
+strPlayer: Max Verstappen
+
+strTeam: Red Bull
+
+strPosition: Driver
+
+strNationality: The Netherlands
+
+dateBorn: 1997-09-30
+
+strDescriptionPT: N/A
+

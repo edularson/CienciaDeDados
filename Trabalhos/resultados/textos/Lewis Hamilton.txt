@@ -1,0 +1,12 @@
+strPlayer: Lewis Hamilton
+
+strTeam: Scuderia Ferrari HP
+
+strPosition: Driver
+
+strNationality: England
+
+dateBorn: 1985-01-07
+
+strDescriptionPT: N/A
+

@@ -1,0 +1,12 @@
+strPlayer: LeBron James
+
+strTeam: Los Angeles Lakers
+
+strPosition: Small Forward
+
+strNationality: United States
+
+dateBorn: 1984-12-30
+
+strDescriptionPT: N/A
+

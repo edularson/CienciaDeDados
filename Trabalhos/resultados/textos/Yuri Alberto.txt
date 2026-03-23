@@ -1,0 +1,12 @@
+strPlayer: Yuri Alberto
+
+strTeam: Corinthians
+
+strPosition: Centre-Forward
+
+strNationality: Brazil
+
+dateBorn: 2001-03-18
+
+strDescriptionPT: N/A
+

@@ -1,0 +1,12 @@
+strPlayer: Roger Federer
+
+strTeam: _Retired Tennis
+
+strPosition: Tennis Player
+
+strNationality: Switzerland
+
+dateBorn: 1981-08-08
+
+strDescriptionPT: N/A
+

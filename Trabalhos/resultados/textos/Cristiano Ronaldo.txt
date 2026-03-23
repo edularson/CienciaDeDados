@@ -1,0 +1,12 @@
+strPlayer: Cristiano Ronaldo
+
+strTeam: Al-Nassr
+
+strPosition: Centre-Forward
+
+strNationality: Portugal
+
+dateBorn: 1985-02-05
+
+strDescriptionPT: N/A
+

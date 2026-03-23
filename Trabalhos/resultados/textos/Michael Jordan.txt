@@ -1,0 +1,12 @@
+strPlayer: Michael Jordan
+
+strTeam: _Retired Basketball
+
+strPosition: Shooting Guard
+
+strNationality: United States
+
+dateBorn: 1963-02-17
+
+strDescriptionPT: N/A
+

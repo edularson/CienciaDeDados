@@ -1,0 +1,12 @@
+strPlayer: Giorgian De Arrascaeta
+
+strTeam: Flamengo
+
+strPosition: Attacking Midfield
+
+strNationality: Uruguay
+
+dateBorn: 1994-06-01
+
+strDescriptionPT: N/A
+

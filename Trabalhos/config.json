@@ -1,0 +1,22 @@
+{
+    "api": {
+      "provider": "thesportsdb",
+      "base_url": "https://www.thesportsdb.com/api/v1/json"
+    },
+    "data_config": {
+      "fields_to_extract": [
+        "strPlayer",
+        "strTeam",
+        "strPosition",
+        "strNationality",
+        "dateBorn",
+        "strDescriptionPT",
+        "strThumb"
+      ]
+    },
+    "output_config": {
+      "text_dir": "resultados/textos",
+      "image_dir": "resultados/imagens",
+      "history_file": "resultados/historico_pesquisas.txt"
+    }
+  }
