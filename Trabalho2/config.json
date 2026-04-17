@@ -1,0 +1,29 @@
+{
+    "input_config": {
+      "csv_url": "http://demas-dados-abertos.s3.amazonaws.com/csv/ccmec50a69.csv",
+      "csv_local": "ccmec50a69.csv",
+      "separator": ",",
+      "encoding": "utf-8"
+    },
+    "columns_config": {
+      "anomes_column": "co_anomes",
+      "year_column": "ano",
+      "municipio_column": "no_municipio",
+      "uf_column": "sg_uf",
+      "regiao_column": "no_regiao_brasil",
+      "indicador_mun_column": "vl_indicador_calculado_mun",
+      "indicador_uf_column": "vl_indicador_calculado_uf",
+      "indicador_br_column": "vl_indicador_calculado_br"
+    },
+    "filter_config": {
+      "last_n_years": 10
+    },
+    "output_config": {
+      "graph_path": "grafico_indicador_por_ano.png",
+      "region_graph_path": "grafico_indicador_por_regiao.png",
+      "uf_graph_path": "grafico_top10_uf.png",
+      "database_path": "saude.db",
+      "table_name": "indicador_saude",
+      "stats_path": "estatisticas.json"
+    }
+  }
